@@ -1,0 +1,48 @@
+.header h2
+{
+font-family:Courier;
+font-size:34px;
+margin-left:30px;
+margin-right:1100px;
+border: 10px dashed;
+}
+h1 {
+
+	font-family: Courier;
+	font-size: 30px;
+	color: red;
+	margin-left:460px;
+	margin-right:470px;
+	border: 10px groove;
+}
+.scheleton {
+
+}
+.header input {
+	outline: none;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	font: bold 12px Arial, Helvetica, sans-serif;
+	color: #fff;
+	padding: 10px 20px;
+	border: solid 1px #0076a3;
+	background: #0095cd;
+	margin-left: 300px;
+}
+.container button {
+	outline:none;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	font: bold 12px Arial, Helvetica, sans-serif;
+	color: #fff;
+	padding: 10px 20px;
+	border: solid 1px #0076a3;
+	background: #0095cd;
+}
+.container p{
+font-size:30px;
+padding-left:20px;
+color:red;
+}
